@@ -1,4 +1,4 @@
-#Disclosure
+# Disclosure
 
 **AI tools were used to create the base for code and text documents for this project**
 

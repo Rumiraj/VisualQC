@@ -1,3 +1,7 @@
+#Disclosure
+
+**AI tools were used to create the base for code and text documents for this project**
+
 # VisualQC
 
 **Prototype camera-based visual quality inspection with OpenCV and PyTorch**
